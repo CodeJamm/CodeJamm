@@ -15,3 +15,4 @@
 ## Home Screen
 
 ![image](https://user-images.githubusercontent.com/43011442/126441231-28e04f70-9540-4a49-954b-797c019efe83.png)
+![image](https://user-images.githubusercontent.com/43011442/126441985-44cb599f-e13d-40fd-b0aa-8940240034d7.png)
