@@ -27,5 +27,5 @@
 ## Compiler 
 
 ![image](https://user-images.githubusercontent.com/43011442/126442511-7b0fb164-5973-443c-9efb-3d8543210705.png)
-![image](https://user-images.githubusercontent.com/43011442/126442612-2a6aa694-aa1a-4de0-b53d-ed9aff3c53c7.png)
+![image](https://user-images.githubusercontent.com/43011442/126442844-192a9663-4e85-48ca-9525-ac9279ddb6f9.png)
 ![image](https://user-images.githubusercontent.com/43011442/126442723-b5caf91c-1cce-425b-b53a-7f4727beb4fa.png)
