@@ -15,7 +15,7 @@
 ## Home Screen
 
 ![image](https://user-images.githubusercontent.com/43011442/126441231-28e04f70-9540-4a49-954b-797c019efe83.png)
-![image](https://user-images.githubusercontent.com/43011442/126441985-44cb599f-e13d-40fd-b0aa-8940240034d7.png)
+![image](https://user-images.githubusercontent.com/43011442/126442969-be6e49d7-8b84-4101-81da-0cf50be19493.png)
 ![image](https://user-images.githubusercontent.com/43011442/126442060-29ac6bd7-c665-4179-9dbe-a77cb7d36050.png)
 ![image](https://user-images.githubusercontent.com/43011442/126442119-84034a45-38c2-4ae3-be13-6cf36bb9df7a.png)
 ![image](https://user-images.githubusercontent.com/43011442/126442206-222cfa2e-c2f2-44b7-ab9a-be8a6f9ae2a9.png)
