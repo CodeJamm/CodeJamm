@@ -22,3 +22,6 @@
 ![image](https://user-images.githubusercontent.com/43011442/126442277-653b4e18-19f8-4100-8c30-d7ab0e95e958.png)
 ![image](https://user-images.githubusercontent.com/43011442/126442308-32226b35-0fb8-4454-abea-b61d64dca537.png)
 ![image](https://user-images.githubusercontent.com/43011442/126442362-c5202957-cc1c-4f12-883e-18d97408c481.png)
+
+
+## QR Generator 
