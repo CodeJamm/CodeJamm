@@ -24,6 +24,6 @@
 ![image](https://user-images.githubusercontent.com/43011442/126442362-c5202957-cc1c-4f12-883e-18d97408c481.png)
 
 
-## QR Generator 
+## Compiler 
 
 ![image](https://user-images.githubusercontent.com/43011442/126442511-7b0fb164-5973-443c-9efb-3d8543210705.png)
