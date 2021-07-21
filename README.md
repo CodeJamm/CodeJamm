@@ -7,3 +7,4 @@
 
 ## Development Tool 📺
 
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Slides&color=222222&logo=google&logoColor=FF9800&label=)
